@@ -1,7 +1,8 @@
 #include<iostream.h>
-int main()
+void main()
 {
 cout<<"hello world";
+getch();
 }
 
 
